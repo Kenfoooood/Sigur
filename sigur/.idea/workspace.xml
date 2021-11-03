@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sigur:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18d56fda-e1df-45e5-904c-7a7b06d3e6cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1w0JN5CMiZLAYEnizfcSWxRzgDb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="sigur" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18d56fda-e1df-45e5-904c-7a7b06d3e6cf" name="Default Changelist" comment="" />
+      <created>1627589529654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627589529654</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="200" key="#Project_Structure" timestamp="1629229293366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="200" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1629229293366" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630862682420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630862682420" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1629725346548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1629725346548" />
+    <state x="746" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1635803450460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635803450460" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1628949817099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1628949817099" />
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1629816877452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629816877452" />
+    <state x="865" y="304" key="FileChooserDialogImpl" timestamp="1635709599348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="865" y="304" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1635709599348" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1635775864341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1635775864341" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1635725438315" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1635775864341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1635775864341" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1635725438314" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1635775864341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1635775864341" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1635725438314" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1635775864341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1635775864341" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1635725438314" />
+    <state width="1877" height="281" key="GridCell.Tab.1.bottom" timestamp="1630013769578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630013769578" />
+    <state width="1877" height="281" key="GridCell.Tab.1.center" timestamp="1630013769578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630013769578" />
+    <state width="1877" height="281" key="GridCell.Tab.1.left" timestamp="1630013769578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630013769578" />
+    <state width="1877" height="281" key="GridCell.Tab.1.right" timestamp="1630013769578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630013769578" />
+    <state x="618" y="148" key="SettingsEditor" timestamp="1635803463940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1635803463940" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1629479087339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1629479087339" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1635958723074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="467" y="242" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1635599560121" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635958723074" />
+    <state x="649" y="435" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1629229280011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="649" y="435" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1629229280011" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1629124345552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1629124345552" />
+  </component>
+</project>

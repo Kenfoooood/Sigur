@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="false"
+    android:layout_centerHorizontal="false"
+    android:layout_centerVertical="false"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/login"
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="130dp"
+        android:hapticFeedbackEnabled="false"
+        android:hint="@string/login"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/password"
+        android:textSize="18sp"
+        android:visibility="visible"
+        android:layout_marginStart="10dp" />
+
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="53dp"
+        android:text="@string/Select_college"
+        android:textSize="17sp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="53dp" />
+
+    <Spinner
+        android:id="@+id/colleges"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="122dp"
+        android:layout_marginLeft="122dp"
+        android:layout_marginTop="25dp"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:hint="@string/colleges"
+        android:popupBackground="#8BFD87" />
+
+    <Button
+        android:id="@+id/enter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/enter"
+        app:backgroundTint="#1FC325" />
+
+    <Button
+        android:id="@+id/quit_destroy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="10dp"
+        android:text="Выйти"
+        app:backgroundTint="#F43636" />
+
+</LinearLayout>
