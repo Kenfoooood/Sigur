@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">sms info</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="enter">Войти</string>
+    <string name="colleges">colleges</string>
+    <string name="Select_college">Выберите название колледжа:</string>
+    <string name="inputinfo">Введите данные для поиска:</string>
+    <string name="hintinfo">Имя, номер телефона (+7...) или номер карты</string>
+    <string name="searching">Поиск</string>
+    <string name="add_personal">Добавить сотрудника</string>
+    <string name="searching_by_name">поиск по имени</string>
+    <string name="searching_by_number">поиск по номеру телефона</string>
+    <string name="searching_by_cardNumber">поиск по номеру карты</string>
+    <string name="inputname">Введите имя</string>
+    <string name="add">Добавить</string>
+    <string name="quit">Выйти</string>
+    <string name="back">назад</string>
+    <string name="enter_the_name_of_group">Введите название группы</string>
+    <string name="list_name">list_name</string>
+    <string name="activate_pass">активировать пропуск</string>
+    <string name="fire">уволить</string>
+    <string name="save">сохранить</string>
+</resources>

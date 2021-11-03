@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Add_person">
+
+
+    <EditText
+        android:id="@+id/enter_name_of_person"
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="200dp"
+        android:hint="@string/inputname"/>
+
+    <EditText
+        android:id="@+id/enter_name_of_thegroup"
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:hint="@string/enter_the_name_of_group"/>
+
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="125dp"
+        android:layout_marginLeft="125dp"
+        android:text="@string/add"/>
+
+    <Button
+        android:id="@+id/back_to_search_add2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="140dp"
+        android:layout_marginLeft="140dp"
+        android:text="@string/back"/>
+</LinearLayout>
